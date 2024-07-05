@@ -7,3 +7,6 @@ Je suis Souleymane SALL, un développeur passionné par la création de logiciel
 PS: Most of my work are private for now.
 
 PCG ⏳
+
+
+![Profile views](https://shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https://api.countapi.xyz/hit/Pvpasall/Pvpasall)
