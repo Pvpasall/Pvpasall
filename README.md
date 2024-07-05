@@ -9,4 +9,4 @@ PS: Most of my work are private for now.
 PCG ⏳
 
 
-![Profile views](https://shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https://api.countapi.xyz/hit/Pvpasall/Pvpasall)
+![Profile views](https://hits.dwyl.com/Pvpasall/Pvpasall.svg)
